@@ -1,0 +1,16 @@
+D:\project\vs\JenkinsDemo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\project\vs\JenkinsDemo\bin\Debug\netcoreapp2.1\appsettings.json
+D:\project\vs\JenkinsDemo\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\project\vs\JenkinsDemo\obj\Debug\netcoreapp2.1\JenkinsDemo.AssemblyInfoInputs.cache
+D:\project\vs\JenkinsDemo\obj\Debug\netcoreapp2.1\JenkinsDemo.AssemblyInfo.cs
+D:\project\vs\JenkinsDemo\bin\Debug\netcoreapp2.1\JenkinsDemo.deps.json
+D:\project\vs\JenkinsDemo\bin\Debug\netcoreapp2.1\JenkinsDemo.runtimeconfig.json
+D:\project\vs\JenkinsDemo\bin\Debug\netcoreapp2.1\JenkinsDemo.runtimeconfig.dev.json
+D:\project\vs\JenkinsDemo\bin\Debug\netcoreapp2.1\JenkinsDemo.dll
+D:\project\vs\JenkinsDemo\bin\Debug\netcoreapp2.1\JenkinsDemo.pdb
+D:\project\vs\JenkinsDemo\obj\Debug\netcoreapp2.1\JenkinsDemo.csprojAssemblyReference.cache
+D:\project\vs\JenkinsDemo\obj\Debug\netcoreapp2.1\JenkinsDemo.RazorAssemblyInfo.cache
+D:\project\vs\JenkinsDemo\obj\Debug\netcoreapp2.1\JenkinsDemo.RazorAssemblyInfo.cs
+D:\project\vs\JenkinsDemo\obj\Debug\netcoreapp2.1\JenkinsDemo.RazorTargetAssemblyInfo.cache
+D:\project\vs\JenkinsDemo\obj\Debug\netcoreapp2.1\JenkinsDemo.dll
+D:\project\vs\JenkinsDemo\obj\Debug\netcoreapp2.1\JenkinsDemo.pdb
