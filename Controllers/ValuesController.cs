@@ -14,7 +14,7 @@ namespace JenkinsDemo.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "vae3", "v5" };
+            return new string[] { "values1", "values2" };
         }
 
         // GET api/values/5
